@@ -7,8 +7,8 @@
 //Lending 
 
 //Initializing constants
-const serverUrl = "";//Get your own Moralis Server.
-const appId = "";//Get your own Moralis Server.
+    const serverUrl = "https://hdpxpzjmlpx6.usemoralis.com:2053/server"
+    const appId = "t07EZ6BykNBSZJ9JX4teirTdZLXJuZynTSePicOq"
 
 //web3 constants
 const contractAddress = ""; //your own contract
